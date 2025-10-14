@@ -24,7 +24,7 @@ export const AboutSection = () => {
             </a>
 
             
-            <a href="public\projects\SandeepaM Resume.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 ml-2">
+            <a href="projects\SandeepaM Resume.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 ml-2">
               Download CV
 
             </a>
@@ -35,7 +35,7 @@ export const AboutSection = () => {
           {/* Profile image */}
           <div className="flex justify-center md:justify-end md:col-span-1 mb-8 md:mb-0">
             <img 
-              src="public/projects/WhatsApp Image .jpg" 
+              src="projects/WhatsApp Image .jpg" 
               alt="Sandeepa Subashini" 
               className="w-48 h-48 object-cover rounded-full border-4 border-primary shadow-lg" 
             />

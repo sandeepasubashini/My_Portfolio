@@ -16,8 +16,8 @@ const Skills = [
     {name : "SQL", level: 65,category: "Backend"},  
     {name : "PHP", level: 60,category: "Backend"},
     //Mobile
-    {name : "Kotlin", level: 80,category: "Mobile"},
-    {name : "Android Studio", level: 75,category: "Mobile"},
+    {name : "Kotlin", level: 100,category: "Mobile"},
+    {name : "Android Studio", level: 100,category: "Mobile"},
     //UI/UX
     {name : "UI/UX Design", level: 70,category: "UI/UX"},
     {name : "Figma", level: 65,category: "UI/UX"},

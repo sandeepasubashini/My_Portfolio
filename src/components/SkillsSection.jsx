@@ -23,6 +23,7 @@ const Skills = [
     {name : "Figma", level: 65,category: "UI/UX"},
     //Other
     {name : "Git/GitHub", level: 85,category: "Other"},
+    {name : "PowerBI", level: 90,category: "Other"},
     
     
     
@@ -30,7 +31,7 @@ const Skills = [
 
 export const SkillSection = () =>{
     return(
-        <section id="Skills"className="py-24 px-4 relative bg-secondary/30">
+        <section id="skills" className="py-24 px-4 relative bg-secondary/30 scroll-mt-20" style={{ scrollMarginTop: '5rem' }}>
             <div className="container mx-auto max-w-5xl">
                 <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
                     My <span className="text-primary">Skills</span>
